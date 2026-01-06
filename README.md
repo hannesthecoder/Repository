@@ -2,9 +2,12 @@
 
 Learning Spikes & Self-Directed Projects
 
+This repository documents periods where I deliberately compressed difficult learning curves
+or executed under high-pressure, real-world conditions alongside existing commitments.
+
 ## Latin (12-month intensive)
 
-- Self-taught Latin to advanced reading fluency in ~12 months.
+- Self-taught Latin to advanced reading fluency in 12 months.
 - Followed a daily routine of grammar drills, translation, and direct reading of classical texts, in parallel with the standard school curriculum.
 - Covered material typically spread over a 4 year curriculum.
 - Focus was on speed, retention, and first-principles understanding.
