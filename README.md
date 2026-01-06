@@ -17,6 +17,6 @@ Outcome:
 - Prepared and tested sets through regular rehearsal and live iteration.
 - Executed performances under uncertainty, real-time audience feedback, and high social exposure.
 
-Outcome
+Outcome:
 - Developed comfort with public evaluation and high-pressure execution.
 - Built reliability in delivering performance in non-reversible, real-world settings.
